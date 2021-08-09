@@ -14,6 +14,7 @@
 
 ## Usage
 
+![hw1-readme-screenshot](https://user-images.githubusercontent.com/86323038/128771294-bcfc108d-5909-46e2-9636-64465927c169.png)
 
 ./assets/images/hw1-readme-screenshot.png
 
